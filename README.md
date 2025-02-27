@@ -1,3 +1,7 @@
+> There are far, far better things ahead than any we leave behind. - C.S. Lewis
+
+Thanks for participating in the RareRedirect experiment. 2021-2025. 
+
 # RareRedirect
 
 RareRedirect is an experiment that allows users to decide where a website should redirect based on whether they are willing to pay more than the previous redirect purchaser. The contract is very simple. None of the code is audited, so proceed at your own risk. If you notice any bugs or have suggestions for improvements, please open an issue. I'm always open to feedback.
